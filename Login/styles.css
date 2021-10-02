@@ -70,4 +70,23 @@ body {
    color: whitesmoke;
    font-size: 16px;   
  }
+ .login-box input[type="submit"] {
+   border: none;
+   outline: none;
+   height: 40px;
+   background: #d6616f;
+   color: #fff;
+   font-size: 18px;
+   border-radius: 20px;
+ }
+
+ .login-box a {
+   text-decoration: none;
+   font-size: 12px;
+   line-height: 20px;
+   color: darkgray;
+ }
+ .login-box a:hover {
+   color: #fff;
+ }
  
