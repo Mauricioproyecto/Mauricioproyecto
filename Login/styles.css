@@ -5,6 +5,11 @@
 
 }
 
+
+body {
+  background-image: url(./media/stripe-hero-background-effect-html-css.png);
+}
+
 .form-register {
   width: 400px;
   background: #213e5c;
